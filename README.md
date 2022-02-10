@@ -26,8 +26,6 @@
 <br>
 <img src="resources/IMG_20210116_220039.jpg" alt="" height="240"/>
 <br>
-<img src="resources/IMG_20210116_221010.jpg" alt="" height="240"/>
-<br>
 <img src="resources/IMG_20210116_222316.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210116_223412.jpg" alt="" height="240"/>
@@ -37,8 +35,6 @@
 <img src="resources/IMG_20210117_000806.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_000811.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_003813.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_015241.jpg" alt="" height="240"/>
 <br>
