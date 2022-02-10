@@ -44,8 +44,6 @@
 <br>
 <img src="resources/IMG_20210117_023325.jpg" alt="" height="240"/>
 <br>
-<img src="resources/IMG_20210117_035249.jpg" alt="" height="240"/>
-<br>
 <img src="resources/IMG_20210117_035254.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_100555.jpg" alt="" height="240"/>
