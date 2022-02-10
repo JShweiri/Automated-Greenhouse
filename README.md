@@ -1,35 +1,29 @@
 # Automated-Greenhouse
-
-<img src="resources/IMG_20210116_142131.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_152538.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_161709.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_183112.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_184205.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_191214.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_211308.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_212705.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_212939.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_222316.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_223412.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_000811.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_015241.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_015257.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_035254.jpg" alt="" height="240"/>
-<br>
+<p float="left">
+<img src="resources/IMG_20210116_142131.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210116_152538.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210116_161709.jpg" alt="" height="300"/>
+</p>
+<p float="left">
+<img src="resources/IMG_20210116_183112.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210116_184205.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210116_191214.jpg" alt="" height="300"/>
+</p>
+<p float="left">
+<img src="resources/IMG_20210116_211308.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210116_212705.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210116_212939.jpg" alt="" height="300"/>
+</p>
+<p float="left">
+<img src="resources/IMG_20210116_222316.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210116_223412.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210117_000811.jpg" alt="" height="300"/>
+</p>
+<p float="left">
+<img src="resources/IMG_20210117_015241.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210117_015257.jpg" alt="" height="300"/>
+<img src="resources/IMG_20210117_035254.jpg" alt="" height="300"/>
+</p>
 <img src="resources/IMG_20210117_100555.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_100631.jpg" alt="" height="240"/>
