@@ -2,21 +2,15 @@
 
 <img src="resources/IMG_20210116_142131.jpg" alt="" height="240"/>
 <br>
-<img src="resources/IMG_20210116_150808.jpg" alt="" height="240"/>
-<br>
 <img src="resources/IMG_20210116_152538.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210116_161709.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210116_183112.jpg" alt="" height="240"/>
 <br>
-<img src="resources/IMG_20210116_183748.jpg" alt="" height="240"/>
-<br>
 <img src="resources/IMG_20210116_184205.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210116_191214.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_211248.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210116_211308.jpg" alt="" height="240"/>
 <br>
@@ -24,25 +18,15 @@
 <br>
 <img src="resources/IMG_20210116_212939.jpg" alt="" height="240"/>
 <br>
-<img src="resources/IMG_20210116_220039.jpg" alt="" height="240"/>
-<br>
 <img src="resources/IMG_20210116_222316.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210116_223412.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210116_224602.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_000806.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_000811.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_015241.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_015257.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_022945.jpg" alt="" height="240"/>
-<br>
-<img src="resources/IMG_20210117_023325.jpg" alt="" height="240"/>
 <br>
 <img src="resources/IMG_20210117_035254.jpg" alt="" height="240"/>
 <br>
