@@ -1,4 +1,7 @@
 # Automated-Greenhouse
+
+This project was made in under 24 hours for RoseHack 2021
+
 <p float="left">
 <img src="resources/IMG_20210116_142131.jpg" alt="" height="300"/>
 <img src="resources/IMG_20210116_152538.jpg" alt="" height="300"/>
